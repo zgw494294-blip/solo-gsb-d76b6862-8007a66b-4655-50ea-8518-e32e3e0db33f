@@ -1,0 +1,7 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+tests/
+README.md
+docker-compose.yml
